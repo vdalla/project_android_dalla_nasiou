@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Quiz</string>
+    <string name="hello_world">Γειά σου Χρήστη!</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    <string name="str_next">Επόμενη Ερώτηση</string>
+    <string name="title_activity_result">Αποτελέσματα!!!</string>
+
+</resources>
